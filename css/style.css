@@ -1,0 +1,57 @@
+
+
+.navbar {
+    background-color:#719E2C;
+}
+    
+.imagem-circulo{
+    width: 150px; 
+    height: 160px;
+    border-radius: 50%;
+	border:6px inset #5f6632;
+	background: #b1b1c3;
+}
+
+.oque-deseja {
+    background-color:#2C8D9E;
+    color: white
+}
+
+.margin {
+    padding-top:50px;
+    padding-bottom: 50px;
+
+}
+
+.quem-sou {
+    width: 600px; 
+    height: 400px;
+    border:6px inset #16ddd3;
+
+}
+
+.parceiros {
+    background-color:#9c382b;
+    color: white   
+}
+
+.equipes {
+    width: 450px; 
+    height: 300px;
+}
+
+.skills {
+    width: 450px; 
+    height: 300px;
+    width: 100%;
+}
+
+.ultima {
+    background-color:#9c382b;
+    color: white 
+}
+
+.bg-footer {
+    background-color:#000000;
+    color: white 
+}
